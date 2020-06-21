@@ -1,0 +1,4 @@
+{
+	"mongoURI": "mongodb+srv://sarmedr:sarmed123@cluster0-pawnv.mongodb.net/Project0?retryWrites=true&w=majority",
+	"jwtSecret": "mysecrettoken"
+}
